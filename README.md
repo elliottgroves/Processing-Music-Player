@@ -1,5 +1,5 @@
 # Processing-Music-Player
-A project from 2010 done in Processing. A simple music player which plays local files and mp3s if you provide a url.
+A project from 2010 done in Processing. A simple music player/visualizer which plays local files and mp3s if you provide a url, while changing colors of the interface based on the frequency bands of the song being played.
 
 The source code can be found in the source folder -> ProcessingMusicPlayer.pde.
 
